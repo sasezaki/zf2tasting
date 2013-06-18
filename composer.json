@@ -1,16 +1,5 @@
 {
-    "name": "maestrooo/zend-skeleton-light",
-    "description": "A super light Zend Skeleton Application for Zend Framework 2",
-    "license": "MIT",
-    "keywords": [
-        "framework",
-        "skeleton",
-        "light",
-        "zf2"
-    ],
-    "homepage": "https://github.com/maestrooo/zend-skeleton-light",
-    "require": {
-        "php": ">=5.3.3",
+    "require":{
         "zendframework/zendframework": ">=2.2.0"
     }
 }

@@ -1,14 +1,10 @@
-# Zend Skeleton Light
+ZF2 Skeleton LEFT
+==================
+Aren't you left Skeleton Application?
 
-Zend Skeleton Light is a super light ZF 2 skeleton application, based on [Zend Skeleton Application](https://github.com/zendframework/ZendSkeletonApplication). But with nothing to delete.
+This is just joke alternative for ZendSkeletonApplication.
 
-## Installation
+based on zend-skeleton-light
+https://github.com/maestrooo/zend-skeleton-light
 
-Zend Skeleton Light is as easy to install as standard Zend Skeleton application.
-
-1. `curl -s https://getcomposer.org/installer | php --`
-2. `php composer.phar create-project -sdev maestrooo/zend-skeleton-light path/to/install`
-
-## Contribute
-
-Really, what do you want to contribute?
+And Irony for http://fabien.potencier.org/article/70/packing-a-symfony-full-stack-framework-application-in-one-file-bootstrapping ;-)
