@@ -101,7 +101,7 @@ namespace {
 
     // register templates dynamic!
     VariableStream::$variables['layout_layout'] = <<<'LAYOUT'
-<? echo $this->doctype(); ?>
+<?php echo $this->doctype(); ?>
 <html lang="en">
     <head>
         <meta charset="utf-8">
