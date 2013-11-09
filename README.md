@@ -1,10 +1,12 @@
-ZF2 Skeleton LEFT
+ZF2 Tasting Debuggin for Application & module
 ==================
-Aren't you left Skeleton Application?
-
-This is just joke alternative for ZendSkeletonApplication.
-
 based on zend-skeleton-light
 https://github.com/maestrooo/zend-skeleton-light
 
-And Irony for http://fabien.potencier.org/article/70/packing-a-symfony-full-stack-framework-application-in-one-file-bootstrapping ;-)
+
+```
+php composer.phar create-project -sdev sasezaki/zf2tasting . 
+```
+
+You need set envrionment variable `ZF2_PATH`
+
