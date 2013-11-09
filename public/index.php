@@ -1,6 +1,6 @@
 <?php
 namespace {
-    include dirname(__DIR__).'/vendor/autoload.php';
+    include getenv('ZF2_PATH').'/vendor/autoload.php';
     chdir(dirname(__DIR__));
     error_reporting(E_ERROR | E_WARNING | E_PARSE | E_RECOVERABLE_ERROR);
 

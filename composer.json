@@ -1,5 +1,3 @@
 {
-    "require":{
-        "zendframework/zendframework": ">=2.2.0"
-    }
+    "name": "sasezaki/zend-skeleton-left"
 }
